@@ -1,4 +1,6 @@
-Hi I'm a Biomedical Engineer specialised in Data Science. 
+Hola soy Emanuel!
+
+Un Ingeniero Biomédico egresado del IPN con especialización en Ciencia de Datos.
 
 ### Languages
 
