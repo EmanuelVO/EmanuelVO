@@ -8,7 +8,7 @@ Hi I'm a Biomedical Engineer specialised in Data Science.
 
 ### Technologies
 
-![numpy](https://img.shields.io/badge/seaborn?logo=%23013243)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
