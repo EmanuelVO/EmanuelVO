@@ -1,6 +1,5 @@
-Hola soy Emanuel!
 
-Un Ingeniero Biomédico egresado del IPN con especialización en Ciencia de Datos.
+I'm a Biomedical Engineer specialized in Data Science. Knowledgeable in descriptive and inferential statistics, machine learning, predictive modeling, and exploratory data analysis (EDA). Recognized for analytical thinking, problem-solving skills, and clearly communicate in multidisciplinary environments.
 
 ### Languages
 
