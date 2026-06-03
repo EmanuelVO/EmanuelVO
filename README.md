@@ -13,6 +13,7 @@ I'm a Biomedical Engineer specialized in Data Science. Knowledgeable in descript
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-000?&logo=Scikit-Learn)
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
